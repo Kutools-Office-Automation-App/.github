@@ -3,7 +3,7 @@
 Kutools is an Office automation add-in for Windows that adds hundreds of extra tools and one-click utilities to Excel, Outlook, and Word so repetitive Microsoft Office tasks finish in a single action.
 
 <div align="center">
-  <img src="https://catalogartifact.azureedge.net/publicartifacts/89475390.c9de1704-09bc-4fc9-9380-41dbb06b92ee-a00edacf-3d99-4ec2-8024-97ab897c4843/image0_KTW300.png" alt="Kutools Logo" width="25%"/>
+  <img src="https://catalogartifact.azureedge.net/publicartifacts/89475390.12460159-d329-4e1f-9dce-633fe03a184d-0ce67c70-fd86-4dc9-9817-0684357df11e/image1_KTE300.png" alt="Kutools Logo" width="25%"/>
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@ Kutools for Windows is a productivity add-in suite built by ExtendOffice that ex
 
 ## 📸 Gallery
 <div align="center">
-  <img src="https://progsoft.net/images/original_images/k/u/t/kutools-for-excel-760deaf95e5cd7a854e499dbfa95d0dbe087eaa5.png" alt="Kutools Screenshot" width="80%"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLj7zo5ovKN5Hi32CzC1VSBOY0iEz1BwmFX_DyMeoa6kTpfNmKypuEkVI&s=10" alt="Kutools Screenshot" width="80%"/>
 </div>
 
 ## 💻 System Specs
